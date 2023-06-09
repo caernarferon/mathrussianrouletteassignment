@@ -1,0 +1,2 @@
+# mathrussianrouletteassignment
+Math assignment duh
